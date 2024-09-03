@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chira\\source\\repos\\DI_Service_LifeTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4831470D-1762-44C0-8049-72E2544A5D07}|DI_Service_LifeTime\\DI_Service_LifeTime.csproj|c:\\users\\chira\\source\\repos\\di_service_lifetime\\di_service_lifetime\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4831470D-1762-44C0-8049-72E2544A5D07}|DI_Service_LifeTime\\DI_Service_LifeTime.csproj|solutionrelative:di_service_lifetime\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4831470D-1762-44C0-8049-72E2544A5D07}|DI_Service_LifeTime\\DI_Service_LifeTime.csproj|c:\\users\\chira\\source\\repos\\di_service_lifetime\\di_service_lifetime\\services\\transientguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4831470D-1762-44C0-8049-72E2544A5D07}|DI_Service_LifeTime\\DI_Service_LifeTime.csproj|solutionrelative:di_service_lifetime\\services\\transientguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4831470D-1762-44C0-8049-72E2544A5D07}|DI_Service_LifeTime\\DI_Service_LifeTime.csproj|c:\\users\\chira\\source\\repos\\di_service_lifetime\\di_service_lifetime\\services\\singletonguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4831470D-1762-44C0-8049-72E2544A5D07}|DI_Service_LifeTime\\DI_Service_LifeTime.csproj|solutionrelative:di_service_lifetime\\services\\singletonguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4831470D-1762-44C0-8049-72E2544A5D07}|DI_Service_LifeTime\\DI_Service_LifeTime.csproj|c:\\users\\chira\\source\\repos\\di_service_lifetime\\di_service_lifetime\\services\\scopedguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4831470D-1762-44C0-8049-72E2544A5D07}|DI_Service_LifeTime\\DI_Service_LifeTime.csproj|solutionrelative:di_service_lifetime\\services\\scopedguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4831470D-1762-44C0-8049-72E2544A5D07}|DI_Service_LifeTime\\DI_Service_LifeTime.csproj|c:\\users\\chira\\source\\repos\\di_service_lifetime\\di_service_lifetime\\services\\itransientguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4831470D-1762-44C0-8049-72E2544A5D07}|DI_Service_LifeTime\\DI_Service_LifeTime.csproj|solutionrelative:di_service_lifetime\\services\\itransientguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4831470D-1762-44C0-8049-72E2544A5D07}|DI_Service_LifeTime\\DI_Service_LifeTime.csproj|c:\\users\\chira\\source\\repos\\di_service_lifetime\\di_service_lifetime\\services\\isingletonguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4831470D-1762-44C0-8049-72E2544A5D07}|DI_Service_LifeTime\\DI_Service_LifeTime.csproj|solutionrelative:di_service_lifetime\\services\\isingletonguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4831470D-1762-44C0-8049-72E2544A5D07}|DI_Service_LifeTime\\DI_Service_LifeTime.csproj|c:\\users\\chira\\source\\repos\\di_service_lifetime\\di_service_lifetime\\services\\iscopedguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4831470D-1762-44C0-8049-72E2544A5D07}|DI_Service_LifeTime\\DI_Service_LifeTime.csproj|solutionrelative:di_service_lifetime\\services\\iscopedguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4831470D-1762-44C0-8049-72E2544A5D07}|DI_Service_LifeTime\\DI_Service_LifeTime.csproj|c:\\users\\chira\\source\\repos\\di_service_lifetime\\di_service_lifetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4831470D-1762-44C0-8049-72E2544A5D07}|DI_Service_LifeTime\\DI_Service_LifeTime.csproj|solutionrelative:di_service_lifetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITransientGuidService.cs",
+              "DocumentMoniker": "C:\\Users\\chira\\source\\repos\\DI_Service_LifeTime\\DI_Service_LifeTime\\Services\\ITransientGuidService.cs",
+              "RelativeDocumentMoniker": "DI_Service_LifeTime\\Services\\ITransientGuidService.cs",
+              "ToolTip": "C:\\Users\\chira\\source\\repos\\DI_Service_LifeTime\\DI_Service_LifeTime\\Services\\ITransientGuidService.cs",
+              "RelativeToolTip": "DI_Service_LifeTime\\Services\\ITransientGuidService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T02:17:34.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISingletonGuidService.cs",
+              "DocumentMoniker": "C:\\Users\\chira\\source\\repos\\DI_Service_LifeTime\\DI_Service_LifeTime\\Services\\ISingletonGuidService.cs",
+              "RelativeDocumentMoniker": "DI_Service_LifeTime\\Services\\ISingletonGuidService.cs",
+              "ToolTip": "C:\\Users\\chira\\source\\repos\\DI_Service_LifeTime\\DI_Service_LifeTime\\Services\\ISingletonGuidService.cs",
+              "RelativeToolTip": "DI_Service_LifeTime\\Services\\ISingletonGuidService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T02:17:48.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SingletonGuidService.cs",
+              "DocumentMoniker": "C:\\Users\\chira\\source\\repos\\DI_Service_LifeTime\\DI_Service_LifeTime\\Services\\SingletonGuidService.cs",
+              "RelativeDocumentMoniker": "DI_Service_LifeTime\\Services\\SingletonGuidService.cs",
+              "ToolTip": "C:\\Users\\chira\\source\\repos\\DI_Service_LifeTime\\DI_Service_LifeTime\\Services\\SingletonGuidService.cs",
+              "RelativeToolTip": "DI_Service_LifeTime\\Services\\SingletonGuidService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T02:18:43.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransientGuidService.cs",
+              "DocumentMoniker": "C:\\Users\\chira\\source\\repos\\DI_Service_LifeTime\\DI_Service_LifeTime\\Services\\TransientGuidService.cs",
+              "RelativeDocumentMoniker": "DI_Service_LifeTime\\Services\\TransientGuidService.cs",
+              "ToolTip": "C:\\Users\\chira\\source\\repos\\DI_Service_LifeTime\\DI_Service_LifeTime\\Services\\TransientGuidService.cs",
+              "RelativeToolTip": "DI_Service_LifeTime\\Services\\TransientGuidService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T02:42:37.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\chira\\source\\repos\\DI_Service_LifeTime\\DI_Service_LifeTime\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DI_Service_LifeTime\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\chira\\source\\repos\\DI_Service_LifeTime\\DI_Service_LifeTime\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DI_Service_LifeTime\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T02:57:41.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScopedGuidService.cs",
+              "DocumentMoniker": "C:\\Users\\chira\\source\\repos\\DI_Service_LifeTime\\DI_Service_LifeTime\\Services\\ScopedGuidService.cs",
+              "RelativeDocumentMoniker": "DI_Service_LifeTime\\Services\\ScopedGuidService.cs",
+              "ToolTip": "C:\\Users\\chira\\source\\repos\\DI_Service_LifeTime\\DI_Service_LifeTime\\Services\\ScopedGuidService.cs",
+              "RelativeToolTip": "DI_Service_LifeTime\\Services\\ScopedGuidService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T02:42:17.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IScopedGuidService.cs",
+              "DocumentMoniker": "C:\\Users\\chira\\source\\repos\\DI_Service_LifeTime\\DI_Service_LifeTime\\Services\\IScopedGuidService.cs",
+              "RelativeDocumentMoniker": "DI_Service_LifeTime\\Services\\IScopedGuidService.cs",
+              "ToolTip": "C:\\Users\\chira\\source\\repos\\DI_Service_LifeTime\\DI_Service_LifeTime\\Services\\IScopedGuidService.cs",
+              "RelativeToolTip": "DI_Service_LifeTime\\Services\\IScopedGuidService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T02:17:01.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chira\\source\\repos\\DI_Service_LifeTime\\DI_Service_LifeTime\\Program.cs",
+              "RelativeDocumentMoniker": "DI_Service_LifeTime\\Program.cs",
+              "ToolTip": "C:\\Users\\chira\\source\\repos\\DI_Service_LifeTime\\DI_Service_LifeTime\\Program.cs",
+              "RelativeToolTip": "DI_Service_LifeTime\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T02:44:48.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
